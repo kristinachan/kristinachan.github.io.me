@@ -1,9 +1,12 @@
 # kristinachan.github.io
 
 
-## About Me
+## Bioengineering: Scientist & Artist
+
 ### Education
-#### UC Berkeley, B.S. Molecular Environmental Biology, minor in Bioengineering
-#### UC San Diego, M.S. Bioengineering, Research, etc.
-### Bioengineering: Scientist & Artist
-### Hobbies: Rock Climbing & Watercolor Painting
+##### UC Berkeley, B.S. Molecular Environmental Biology, minor in Bioengineering
+##### UC San Diego, M.S. Bioengineering, Research, etc.
+
+### Hobbies: Rock Climbing & Art
+##### Climbing Spots: Yosemite, Joshua Tree, Santee, Mt. Woodson, Mesa Rim
+##### Art Mediums: Watercolor, Pen, Acrylic 
